@@ -21,14 +21,14 @@ repository               : "armando303/armando303.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PXL_20240426_194326939.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "San Diego"
+  employer         : "San Diego State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alemus9726@sdsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
